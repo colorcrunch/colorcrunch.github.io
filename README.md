@@ -1,6 +1,6 @@
-# 🎨 ColorBlast
+# 🎨 ColorCrunch
 
-**ColorBlast** is a browser-based block puzzle game currently being developed using HTML, CSS, and JavaScript.
+**ColorCrunch** is a browser-based block puzzle game currently being developed using HTML, CSS, and JavaScript.
 
 The aim of the game is to place coloured block pieces onto a 10×10 grid, combine matching colours, clear blocks, and earn as much XP as possible before running out of available moves.
 
@@ -38,7 +38,7 @@ ColorBlast is still under development. Planned features include:
 
 ## 🧠 Adaptive Block Generation
 
-One of the main systems planned for ColorBlast is an **adaptive block generator**.
+One of the main systems planned for ColorCrunch is an **adaptive block generator**.
 
 Instead of making every set of blocks completely random, the game will analyse the current state of the board. When the player is close to losing, the system can ensure that at least one of the three available pieces provides a possible way to continue playing.
 
@@ -86,7 +86,7 @@ For example, a red block may also display **R**.
 
 ## 📊 HPQ Development
 
-ColorBlast is being developed iteratively throughout my HPQ.
+ColorCrunch is being developed iteratively throughout my HPQ.
 
 The project will involve:
 

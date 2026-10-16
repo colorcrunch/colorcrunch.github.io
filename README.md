@@ -107,4 +107,4 @@ The present version is an early prototype. Gameplay mechanics, graphics, balanci
 
 ---
 
-**ColorBlast — HPQ Artefact Project**
+**ColorCrunch (Formerly ColorBlast) — HPQ Artefact Project**

@@ -37,14 +37,19 @@ button{
     display : block
 }
 .menu_button {
-    width : 240px;
-    height: auto;
-    display: block;
-    transition: transform 0.2s;
-
+    display : flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
 }
 
-.menu_button:hover {
+.menu_button img {
+    width : 240px;
+    height : auto;
+    display : block;
+    transition: transform 0.2s ease;
+}
+.menu_button a:hover img {
     transform: scale(1.05);
 }
 

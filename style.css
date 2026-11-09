@@ -45,13 +45,13 @@ header {
 
 .menu_mini {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
     gap: 15px
 }
 .menu_mini img {
-    width: 100px;
-    height: auto;
+    width: 60px;
+    height: 60px;
     display: block;
     transition: transform 0.2s ease;
 }

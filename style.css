@@ -20,33 +20,23 @@ header {
     font-size: medium;
     text-align: center;
 }
-button{
-    font-family: Arial, Helvetica, sans-serif;
-    font-style: normal;
-    text-align: center;
-    margin: auto;
-    padding: 12px, 24px;
-    font-size: 16px;
-    width: 150;
-    background-color: lemonchiffon;
-}
 
 .logo {
-    width : 420px;
-    height : auto;
-    display : block
+    width: 420px;
+    height: auto;
+    display: block
 }
 .menu_button {
-    display : flex;
+    display: flex;
     flex-direction: column;
     align-items: center;
     gap: 15px;
 }
 
 .menu_button img {
-    width : 240px;
-    height : auto;
-    display : block;
+    width: 240px;
+    height: auto;
+    display: block;
     transition: transform 0.2s ease;
 }
 .menu_button a:hover img {
@@ -55,7 +45,7 @@ button{
 
 .announcement {
     font-family: 'Courier New', Courier, monospace;
-    background-color: blue;
+    background-color: rgb(64, 64, 82);
     padding: 30px 40px;
     font-size: 24px;
     width: 256;

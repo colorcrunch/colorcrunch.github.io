@@ -37,10 +37,16 @@ header {
 }
 
 .logo {
-    width: 420px;
+    width: 600px;
     height: auto;
-    display: block
+    display: block;
+    transition: trasform 0.2s ease;
 }
+
+.logo a:hover {
+    transform: scale(1.05);
+}
+
 .menu_button {
     display: flex;
     flex-direction: column;

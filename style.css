@@ -110,6 +110,14 @@ footer {
     gap: 5px
 }
 
+header {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    text-align: center;
+    color: white;
+    gap: 10px
+}
+
 #game-board {
     display: grid;
     grid-template-columns: repeat(10, 40px);

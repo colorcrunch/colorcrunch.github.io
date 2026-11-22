@@ -102,3 +102,21 @@ header {
     
 }
 
+#game-board {
+    display: grid;
+    grid-template-columns: repeat(10, 40px);
+    grid-template-rows: repeat(10, 40px);
+    gap: 2px;
+    width: max-content;
+    padding: 5px;
+    background-color: #151B33;
+    border-radius: 6px;
+    margin: 20px auto;
+}
+
+.cell {
+    width: 40px;
+    height: 40px;
+    background-color: #303957;
+    border-radius: 3px;
+}

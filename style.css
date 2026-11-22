@@ -140,3 +140,10 @@ header {
 .gta {
     background: linear-gradient()
 }
+
+.score {
+    text-align: center;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}

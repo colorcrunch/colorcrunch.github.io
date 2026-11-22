@@ -1,3 +1,5 @@
+// Game functions
+
 const board = document.getElementById("game-board");
 
 for (let i = 0; i < 100; i++){
@@ -5,3 +7,5 @@ for (let i = 0; i < 100; i++){
     cell.classList.add("cell")
     board.appendChild(cell);
 }
+
+// Functions for calculating the next block:

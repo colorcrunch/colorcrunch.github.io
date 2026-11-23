@@ -79,7 +79,7 @@ header {
     display: flex;
     flex-direction: row;
     align-items: center;
-    gap: 15px
+    gap: 15px;
 }
 .menu_mini img {
     width: 60px;
@@ -91,6 +91,15 @@ header {
 .menu_mini a:hover img{
     transform: scale(1.05);
 }
+
+.menu_mini-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin: 0 auto;
+}
+
 .announcement {
     font-family: 'Courier New', Courier, monospace;
     background-color: rgb(64, 64, 82);

@@ -164,3 +164,9 @@ header {
     font-family: 'Courier New', Courier, monospace;
     color: white;
 }
+
+.leaderboard {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white
+}
